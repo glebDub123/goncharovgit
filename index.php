@@ -3,6 +3,8 @@ echo "Введите первое число: ";
 $a=readline();
 echo "\nВведите второе число: ";
 $b = readline();
+$resultDiv=$a/$b;
+echo $resultDiv;
 $resultSub=$a-$b;
 echo $resultSub;
 $resultAdd = $a+$b;
