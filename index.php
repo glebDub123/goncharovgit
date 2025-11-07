@@ -1,4 +1,5 @@
 <?php
+echo "Дубовик Глеб 9ПО-32 ";
 echo "Введите первое число: ";
 $a=readline();
 echo "\nВведите второе число: ";
@@ -11,4 +12,5 @@ $resultSub=$a-$b;
 echo $resultSub;
 $resultAdd = $a+$b;
 echo $resultAdd;
+
 ?>
